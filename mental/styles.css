@@ -1,0 +1,31 @@
+body{
+    width: 1700px;
+    height: 1930px;
+    background-image:url();
+    background-color:black;
+}
+h1{
+    color: rgb(255, 244, 244);
+    font-size: 80px;
+    font-family:fantasy;
+    text-align: center;
+}
+h2{
+    color:rgb(255, 244, 244);
+    font-size:33px;
+    font-family:fantasy;
+}
+h5{
+    color:rgb(255, 244, 244);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+nav{
+    width: 1700px;
+    height: 70px;
+    float: left;
+    background-color: rgb(59, 56, 54);
+    color: rgb(222, 240, 255);
+    border: solid;
+    border-color: black;
+}
