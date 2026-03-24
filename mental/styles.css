@@ -93,3 +93,22 @@ hr{
     color:rgba(71, 4, 4, 0.645);
     
 }
+li{
+    background-image:url(images/summary.jpeg);
+    width: 1900px;
+    height: 1300px;
+    z-index: 999;
+ 
+
+
+}
+nav{
+    position:absolute;
+    z-index: 999;
+}
+nav a{
+  
+        color:  rgb(6, 53, 73);
+        background-color: rgba(205, 231, 243, 0.791);
+        font-size: 90px;
+}
