@@ -8,7 +8,7 @@ body{
     gap: 20px;
     padding: 20px;
     box-sizing: border-box;
-    background-image:url(images/background3.png);
+    background-image:url(images/blueflower.png);
     background-size: cover;
     
     background-color:black;
@@ -22,7 +22,7 @@ body{
     background-image:url(images/back.png);
     background-size: cover;
     border: solid 3px;
-    border-color: rgba(255, 0, 0, 0.449);
+    border-color: rgb(187, 244, 229);
 }
 
 #right{   
@@ -33,7 +33,7 @@ body{
     background-image:url(images/back.png);
     background-size: cover;
     border: solid 3px;
-    border-color: rgba(255, 0, 0, 0.449);
+    border-color: rgb(187, 244, 229);
 }
 #bottom{  grid-column: 1 / -1; 
     grid-row: 2;
@@ -42,24 +42,24 @@ body{
     background-image:url(images/back.png);
     background-size: cover;
     border: solid 3px;
-    border-color: rgba(255, 0, 0, 0.449);
+    border-color: rgb(187, 244, 229);
 
 }
 h1{
-    color: rgb(255, 208, 208);
+    color: rgb(0, 53, 73);
     font-size: 80px;
     font-family:fantasy;
     margin-bottom: 0%;
   
 }
 h2{
-    color:rgb(255, 208, 208);
+    color:rgb(187, 244, 229);
     font-size:33px;
     font-family:fantasy;
     margin-bottom: 0%;
 }
 h5{
-    color:rgb(255, 208, 208);
+    color:rgb(187, 244, 229);
     font-size: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
@@ -70,12 +70,12 @@ nav{
     float: left;
     position: inherit;
     background-color: rgb(0, 0, 0);
-    color: rgb(255, 208, 208);
+    color: rgb(187, 244, 229);
     border: solid;
     border-color: rgb(255, 255, 255);
 }
 a{
-    color: rgb(255, 208, 208);
+    color: rgb(187, 244, 229);
     font-size: 30px;
 }
 header{ position: absolute;
@@ -84,13 +84,13 @@ header{ position: absolute;
 }
 header img{
     width: 880px;
-    height: 700px;
-    border: solid 5px;
-    border-color: rgba(255, 0, 0, 0.287);
+    height: 800px;
+    border: solid 10px;
+    border-color: rgba(151, 250, 234, 0.65);
     
 }
 hr{
-    color:rgba(71, 4, 4, 0.645);
+    color:rgb(187, 244, 229);
     
 }
 li{
